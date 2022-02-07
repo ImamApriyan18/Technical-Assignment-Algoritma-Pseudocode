@@ -19,4 +19,4 @@ ELSE
     PRINT temp
     PRINT type
 
-BEGIN
+END
