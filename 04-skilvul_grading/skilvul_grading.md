@@ -8,7 +8,7 @@ DECLARE "m" integer any
 DECLARE "n" integer any
 DECLARE "n" < 70 is not pass, when not pass can't do math.ceil
 
-INPUT m
+INPUT m any
 FOR i=0 to i=n
 
     IF m mod 5 equals 0 and < 3 space from rounding up value
